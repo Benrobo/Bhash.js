@@ -38,7 +38,7 @@ const dMsg = hsh.decrypt(
 }
 ```
 
-#### NOthig much
+#### Nothig much
 
 #### Disclaimer
 
